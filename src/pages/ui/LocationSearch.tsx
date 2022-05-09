@@ -10,7 +10,7 @@ import * as React from "react";
 
 // This key was created specifically for the demo in mui.com.
 // You need to create a new one for your application.
-const GOOGLE_MAPS_API_KEY = "AIzaSyCdKU1cYSqTQP75hF7NXYd2TrbTliamge8";
+const GOOGLE_MAPS_API_KEY = "";
 
 function loadScript(src: string, position: HTMLElement | null, id: string) {
   if (!position) {
